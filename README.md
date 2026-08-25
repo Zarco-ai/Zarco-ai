@@ -2,15 +2,6 @@
 
 **Houston, TX — I build data and AI tools for small businesses and nonprofits.**
 
-I left college to teach myself AI engineering, and I'd rather learn it by
-solving real problems for people nearby than by working through tutorials.
-
-Most small organizations are sitting on information they can't use — job costs
-in someone's memory, service records across four spreadsheets, a report that
-takes a week to assemble by hand. That's the work I want.
-
----
-
 ### What I'm doing right now
 
 **Building these free for a few Houston businesses and nonprofits.** I'm early
