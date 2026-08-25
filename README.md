@@ -21,7 +21,7 @@ experience that matters. No catch, no upsell.
 If something in your operation is eating hours it shouldn't, I'd like to hear
 about it.
 
-📧 **zarco2457@gmail.com** · 📱 **(832) 690-7452**
+📧 **zarco2457@gmail.com** 
 
 ---
 
@@ -53,8 +53,4 @@ the second meeting.
 
 **I build what your team can run without me.** Software that only works while
 I'm around isn't help.
-
----
-
-*Currently learning agentic AI systems and how to prove they actually work.*
 
