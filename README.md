@@ -2,17 +2,21 @@
 
 **Houston, TX — I build data and AI tools for small businesses and nonprofits.**
 
+Most small organizations are sitting on information they can't use — job costs
+in someone's memory, service records across four spreadsheets, a report that
+takes a week to assemble by hand. That's the work I want.
+
 ### What I'm doing right now
 
-**Building these free for a few Houston businesses and nonprofits.** I'm early
-in my career and I want real problems to solve. You get working software and
-someone who sticks around long enough to hand it off properly; I get
-experience that matters. No catch, no upsell.
+**I'm building these free for a few Houston businesses and nonprofits.** I'm
+early in my career and want real problems to solve — you get working software
+and someone who sticks around long enough to hand it off properly. No catch,
+no upsell.
 
 If something in your operation is eating hours it shouldn't, I'd like to hear
 about it.
 
-📧 **zarco2457@gmail.com** 
+📧 **zarco2457@gmail.com**
 
 ---
 
