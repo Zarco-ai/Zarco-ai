@@ -22,7 +22,7 @@ been checked against something that doesn't share the program's assumptions.
 And I build what a team can run without me, because software that only works
 while I'm around is a dependency rather than help.
 
-## Current work
+## Current work - volunteered
 
 **[FOCUS-Distribution-Tracker](https://github.com/Zarco-ai/FOCUS-Distribution-Tracker)**
 — Replacing three years of handwritten tally marks at a Houston nonprofit
