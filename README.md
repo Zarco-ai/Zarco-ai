@@ -26,7 +26,7 @@ while I'm around is a dependency rather than help.
 
 **[FOCUS-Distribution-Tracker](https://github.com/Zarco-ai/FOCUS-Distribution-Tracker)**
 — Replacing three years of handwritten tally marks at a Houston nonprofit
-serving mothers and infants.
+serving mothers and infants, FOCUS Houston.
 
 Donated goods are valued against the organization's own rate sheets and
 reported to funders. The app is the easy part. Valuations follow two different
