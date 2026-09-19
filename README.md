@@ -22,6 +22,21 @@ been checked against something that doesn't share the program's assumptions.
 And I build what a team can run without me, because software that only works
 while I'm around is a dependency rather than help.
 
+## Current work - volunteered
+
+**[FOCUS-Distribution-Tracker](https://github.com/Zarco-ai/FOCUS-Distribution-Tracker)**
+— Replacing three years of handwritten tally marks at a Houston nonprofit
+serving mothers and infants, FOCUS Houston.
+
+Donated goods are valued against the organization's own rate sheets and
+reported to funders. The app is the easy part. Valuations follow two different
+rules depending on category, report columns must never double-count across
+buckets, and a correction made in October can silently change a total filed in
+September. Prices are computed in code and frozen onto each record at approval,
+so last year's report still reproduces last year's numbers. No client names are
+stored anywhere — that boundary was set before the first line of code.
+
+
 ## Recent work
 
 **[Margin-Leakage-Capture](https://github.com/Zarco-ai/Margin-Leakage-Capture)**
