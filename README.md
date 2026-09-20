@@ -10,7 +10,7 @@ helps, the AI — that takes them back.
 
 ## How I work
 
-I start by watching the work happen rather than hearing it described, because
+I start by watching the work happen rather than hearing it described because
 descriptions leave out the workarounds and the workarounds are where the hours
 hide. Then every step gets sorted: fixed rules that have to come out right
 every time are ordinary code, messy input that needs judgment is where a model
