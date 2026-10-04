@@ -1,6 +1,6 @@
 # Christopher Zarco
 
-**Houston, TX — I build solutions that save time on business operations.**
+**Houston, TX — I integrate custom software into existing business operations.**
 
 Most organizations lose hours to work that doesn't need a person doing it: a
 report assembled by hand every month, the same request answered forty times a
