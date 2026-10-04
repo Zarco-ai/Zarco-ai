@@ -6,26 +6,23 @@ Most organizations lose hours to work that doesn't need a person doing it: a
 report assembled by hand every month, the same request answered forty times a
 week, information written down once and typed again somewhere else. I find
 where the hours are going, then build the software — and where it genuinely
-helps, the AI — that takes them back.
+helps, the AI - to take the hours back.
 
 ## How I work
 
 I start by watching the work happen rather than hearing it described because
 descriptions leave out the workarounds and the workarounds are where the hours
 hide. Then every step gets sorted: fixed rules that have to come out right
-every time are ordinary code, messy input that needs judgment is where a model
-earns its place, and anything expensive to get wrong keeps a person on it. Most
-steps land on ordinary code, and saying so is part of the job. Before anything
+every time are ordinary code, messy input that needs judgment is where an AI model
+earns its place, and anything expensive to get wrong keeps a person on it. Before anything
 ships I run it against records the organization already has and compare line by
-line — a number isn't right because a program produced it, it's right once it's
-been checked against something that doesn't share the program's assumptions.
-And I build what a team can run without me, because software that only works
+line. And I build what a team can run without me, because software that only works
 while I'm around is a dependency rather than help.
 
 ## Current work 
 
 **[FOCUS-Distribution-Tracker](https://github.com/Zarco-ai/FOCUS-Distribution-Tracker)**
-— Replacing three years of handwritten tally marks at a Houston nonprofit
+— Replacing years of handwritten tally marks at a Houston nonprofit
 serving mothers and infants, FOCUS Houston.
 
 Donated goods are valued against the organization's own rate sheets and
@@ -39,11 +36,14 @@ stored anywhere — that boundary was set before the first line of code.
 
 ## Recent work
 
-**[Margin-Leakage-Capture](https://github.com/Zarco-ai/Margin-Leakage-Capture)**
-— Plumbing technicians log job materials by voice note instead of typing into
-an app. Transcribed, priced against the shop's rate card, held as a draft until
-a human approves it. Prices come from the rate card in code — the model
-classifies what was said, it never decides what anything costs.
+**[Computer-Crimes-Agent](https://github.com/Zarco-ai/Computer-Crimes-Agent)**
+— An AI that answers questions about one chapter of Texas law and cites the
+exact section behind every claim it makes. Before an answer is allowed out,
+every citation is checked against what the system actually looked up; anything
+unsupported is replaced with a refusal rather than sent. Most questions never
+reach the search at all — definitions and offense grades are read from parsed
+tables, because a closed list shouldn't be guessed at. Across 42 test
+questions, every citation it produced traced back to the source text.
 
 **[Harris-CBP-2023-Audit](https://github.com/Zarco-ai/Harris-CBP-2023-Audit)**
 — Census business data for Harris County: 111,215 establishments across 1,709
